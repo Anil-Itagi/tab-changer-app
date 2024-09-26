@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tab-changer-app/static/css/main.c3b3c9ba.css",
+    "main.js": "/tab-changer-app/static/js/main.1caa2f9c.js",
+    "index.html": "/tab-changer-app/index.html",
+    "main.c3b3c9ba.css.map": "/tab-changer-app/static/css/main.c3b3c9ba.css.map",
+    "main.1caa2f9c.js.map": "/tab-changer-app/static/js/main.1caa2f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b3c9ba.css",
+    "static/js/main.1caa2f9c.js"
+  ]
+}
